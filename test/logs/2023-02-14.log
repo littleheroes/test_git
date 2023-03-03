@@ -1,0 +1,16 @@
+time="14143-14-256 15:33:16" level=info msg="记录一下日志info" name=zhang
+time="14143-14-256 15:33:16" level=info msg="| 200 |    35.91927ms |      127.0.0.1| GET|/zhang|"
+time="14143-14-256 15:33:16" level=info msg="记录一下日志info" name=zhang
+time="14143-14-256 15:33:16" level=info msg="| 200 |   31.786348ms |      127.0.0.1| GET|/zhang|"
+time="14143-14-259 15:33:17" level=info msg="记录一下日志info" name=zhang
+time="14143-14-259 15:33:17" level=info msg="| 200 |   32.324183ms |      127.0.0.1| GET|/zhang|"
+time="14143-14-259 15:33:34" level=info msg="记录一下日志info" name=zhang
+time="14143-14-259 15:33:34" level=info msg="| 200 |   37.843205ms |      127.0.0.1| GET|/zhang|"
+time="14143-14-259 15:33:36" level=info msg="记录一下日志info" name=zhang
+time="14143-14-259 15:33:36" level=info msg="| 200 |   48.142108ms |      127.0.0.1| GET|/zhang|"
+time="14143-14-259 15:33:42" level=info msg="记录一下日志info" name=zhang
+time="14143-14-259 15:33:42" level=info msg="| 200 |   38.959552ms |      127.0.0.1| GET|/zhang|"
+time="2023-02-14 04:04:13" level=info msg="记录一下日志info" name=zhang
+time="2023-02-14 04:04:13" level=info msg="| 200 |   36.093995ms |      127.0.0.1 | GET |  /zhang|"
+time="2023-02-14 16:05:55" level=info msg="记录一下日志info" name=zhang
+time="2023-02-14 16:05:55" level=info msg="| 200 |   40.245139ms |      127.0.0.1 | GET |  /zhang|"
